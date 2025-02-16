@@ -1,1 +1,1 @@
-Server 1:14.225.230.237:14445:0,0,0
+Server 1:server.ngocrong99.com:14445:0,0,0
